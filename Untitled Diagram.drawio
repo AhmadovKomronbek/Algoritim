@@ -1,29 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T10:29:00.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MjfmglJ676ksds08V3-B" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T14:43:34.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UHIw8CijrKP0zUc26s7h" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-0" value="Random kutubxonasini chaqirish&lt;br&gt;&lt;br&gt;Foydalanuvchidan gamemodeni olish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MHU4kRLM9bzFtjRCCSRE-0" value="Random kutubxonasini chaqirish&lt;br&gt;&lt;br&gt;Foydalanuvchidan gamemodeni olish" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="40" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-1" value="Gamemodega qarab heartlar sonnnini belgilash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="180" width="300" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-3" value="Sonni 0dan 100gacha bo&#39;lgan&lt;br&gt;sonlarni&amp;nbsp;random qilish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MHU4kRLM9bzFtjRCCSRE-1" value="Gamemodega qarab heartlar sonnnini belgilash" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="320" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-4" value="&lt;br&gt;&lt;br&gt;heartlar soni martta aylanish&lt;br&gt;Foydalanuvchidan raqam olish&lt;br&gt;va uni random&lt;br&gt;&amp;nbsp;son bilan taqqoslash&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MHU4kRLM9bzFtjRCCSRE-3" value="Sonni 0dan 100gacha bo&#39;lgan&lt;br&gt;sonlarni&amp;nbsp;random qilish" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="180" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MHU4kRLM9bzFtjRCCSRE-4" value="heartlar sonni 0da tengmi ?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="485" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-5" value="Sonni 0dan 100gacha bo&#39;lgan&lt;br&gt;sonlarni&amp;nbsp;random qilish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="700" width="200" height="200" as="geometry" />
+        <mxCell id="AU5U2urCdwb4kxW75dGj-0" value="O&#39;yinni to&#39;xtastish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="720" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-6" value="Sonni 0dan 100gacha bo&#39;lgan&lt;br&gt;sonlarni&amp;nbsp;random qilish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="710" width="200" height="200" as="geometry" />
+        <mxCell id="AU5U2urCdwb4kxW75dGj-1" value="Foydalanuvchidan raqam so&#39;rash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="720" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="740" width="200" height="200" as="geometry" />
+        <mxCell id="AU5U2urCdwb4kxW75dGj-4" value="&lt;br&gt;kiritilgan son random sondan&lt;br&gt;kattami ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="860" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AU5U2urCdwb4kxW75dGj-5" value="&lt;br&gt;kiritilgan son random songa&lt;br&gt;tengmi ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AU5U2urCdwb4kxW75dGj-6" value="&lt;br&gt;kiritilgan son random sondan kichikmi ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="1120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AU5U2urCdwb4kxW75dGj-8" value="&quot;Low&quot; ni chiqarish&lt;br&gt;va heartlar sonnini 1ga kamaytirish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="910" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AU5U2urCdwb4kxW75dGj-9" value="&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="941" y="1690" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AU5U2urCdwb4kxW75dGj-10" value="&quot;High&quot; ni chiqarish&lt;br&gt;va heartlar sonnini 1ga kamaytirish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="1170" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
