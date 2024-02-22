@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T14:43:34.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="UHIw8CijrKP0zUc26s7h" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T14:45:11.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F9UAZO5F8h0w-SMhRsH2" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1000" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -34,8 +34,8 @@
         <mxCell id="AU5U2urCdwb4kxW75dGj-8" value="&quot;Low&quot; ni chiqarish&lt;br&gt;va heartlar sonnini 1ga kamaytirish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="910" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AU5U2urCdwb4kxW75dGj-9" value="&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="941" y="1690" width="300" height="100" as="geometry" />
+        <mxCell id="AU5U2urCdwb4kxW75dGj-9" value="&quot;You won&quot; ni chiqarish&lt;br&gt;va o&#39;yinni to&#39;xtatish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="1420" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AU5U2urCdwb4kxW75dGj-10" value="&quot;High&quot; ni chiqarish&lt;br&gt;va heartlar sonnini 1ga kamaytirish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="1170" width="300" height="100" as="geometry" />
