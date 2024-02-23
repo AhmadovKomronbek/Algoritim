@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T10:58:33.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gew2VX7dGet30GrErAQ6" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T10:59:44.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="so-F_BNM8oYCdJoEYwYH" version="23.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2625" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="MHU4kRLM9bzFtjRCCSRE-0" value="&lt;h3&gt;Random kutubxonasini chaqirish&lt;br&gt;Foydalanuvchidan gamemodeni olish&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="40" width="300" height="100" as="geometry" />
+          <mxGeometry x="215" y="20" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MHU4kRLM9bzFtjRCCSRE-1" value="&lt;h3&gt;Gamemodega qarab heartlar sonnnini belgilash&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="320" width="300" height="100" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="MHU4kRLM9bzFtjRCCSRE-3" value="&lt;h3&gt;Sonni 0dan 100gacha bo&#39;lgan&lt;br&gt;sonlarni&amp;nbsp;random qilish&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="180" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MHU4kRLM9bzFtjRCCSRE-4" value="&lt;h3&gt;heartlar sonni 0da tengmi ?&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="MHU4kRLM9bzFtjRCCSRE-4" value="&lt;h3&gt;heartlar sonni&lt;/h3&gt;&lt;h3&gt;0da tengmi ?&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="485" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AU5U2urCdwb4kxW75dGj-0" value="&lt;h3&gt;O&#39;yinni to&#39;xtastish&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
